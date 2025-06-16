@@ -149,10 +149,11 @@ http://localhost:8080/FoodOrderingSystem/
 Shaik Mahaboob Basha
 
 💼 Aspiring Full Stack Java Developer | Passionate about Web Development and Clean Code
-📫 Email: mahebob2002basha@gmail.com
-🔗 GitHub: github.com/Mahaboob-Basha-Shaik
-💼 LinkedIn: linkedin.com/in/mahaboob-shaik-991380239
-🌐 Portfolio: (Coming Soon)
+📫 Let's Connect!
+💼 [LinkedIn]...(https://www.linkedin.com/in/mahaboob-shaik-991380239)
+📧 Email:maheboob2002basha@gmail.com.com
+🧑‍💻 [GitHub]...(https://github.com/Mahaboob-Basha-Shaik)
+🌐 [Portfolio Website : https://mahaboob-basha-shaik.vercel.app/]
 📍 Location: India
 
 ---
