@@ -89,9 +89,6 @@ Run the SQL script located in the sql/ folder to create tables and sample data.
 
 Update your DB credentials in the DBUtil.java or db.properties file:
 
-java
-Copy
-Edit
 String url = "jdbc:mysql://localhost:3306/food_ordering_db";
 String username = "root";
 String password = "yourpassword";
@@ -110,6 +107,40 @@ Start the Tomcat server.
 
 Access the App
 http://localhost:8080/FoodOrderingSystem/
+
+
+
+
+## 📷 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/homepage.png)
+
+---
+
+### 🍽️ Restaurant Menu
+![Restaurant Menu](screenshots/restaurant-menu.png)
+
+---
+
+### 🛒 Cart Page
+![Cart Page](screenshots/cart.png)
+
+---
+
+### 💳 Checkout Page
+![Checkout Page](screenshots/checkout.png)
+
+---
+
+### ✅ Order Confirmation
+![Order Confirmation](screenshots/order-confirmation.png)
+
+---
+
+### 👤 User Profile Page
+![Profile Page](screenshots/profile.png)
+
 
 
 
