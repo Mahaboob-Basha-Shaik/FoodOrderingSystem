@@ -59,18 +59,71 @@ FoodOrderingSystem/
 
 
 
-## 👨‍💻 Author
+---
 
-**Shaik Mahaboob Basha**
+## 🚀 How to Run the Project
 
-💼 Aspiring Full Stack Java Developer | Passionate about Web Development and Clean Code  
-📫 Email: mahebob2002basha@gmail@.com
-🔗 GitHub:(https://github.com/Mahaboob-Basha-Shaik)  
-💼 LinkedIn:https://www.linkedin.com/in/mahaboob-shaik-991380239  
-🌐 Portfolio: [https://your-portfolio.com](https://your-portfolio.com) *(if any)*  
+### ✅ Prerequisites
+- JDK 8 or higher
+- Apache Tomcat 9 or later
+- MySQL Server
+- IDE: Eclipse / IntelliJ IDEA (recommended)
+- Maven or manually managed `lib` folder for JDBC drivers
+
+### 💡 Steps to Run Locally on Tomcat Server:
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Mahaboob-Basha-Shaik/FoodOrderingSystem.git
+Import the Project
+
+Open Eclipse or IntelliJ.
+
+Import it as a Dynamic Web Project or Maven Web Project.
+
+Configure the Database
+
+Create a MySQL database (e.g., food_ordering_db).
+
+Run the SQL script located in the sql/ folder to create tables and sample data.
+
+Update your DB credentials in the DBUtil.java or db.properties file:
+
+java
+Copy
+Edit
+String url = "jdbc:mysql://localhost:3306/food_ordering_db";
+String username = "root";
+String password = "yourpassword";
+String password = "yourpassword";
+Add JDBC Connector
+
+Add mysql-connector-java-x.x.xx.jar to your lib directory or use Maven dependency if applicable.
+
+Deploy on Tomcat
+
+Add your project to Tomcat server in Eclipse.
+
+Clean and build the project.
+
+Start the Tomcat server.
+
+Access the App
+http://localhost:8080/FoodOrderingSystem/
+
+
+
+
+👨‍💻 Author
+Shaik Mahaboob Basha
+
+💼 Aspiring Full Stack Java Developer | Passionate about Web Development and Clean Code
+📫 Email: mahebob2002basha@gmail.com
+🔗 GitHub: github.com/Mahaboob-Basha-Shaik
+💼 LinkedIn: linkedin.com/in/mahaboob-shaik-991380239
+🌐 Portfolio: (Coming Soon)
 📍 Location: India
 
 ---
-
 > _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
