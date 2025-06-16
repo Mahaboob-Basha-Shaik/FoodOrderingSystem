@@ -59,18 +59,6 @@ FoodOrderingSystem/
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## 👨‍💻 Author
 
 **Shaik Mahaboob Basha**
