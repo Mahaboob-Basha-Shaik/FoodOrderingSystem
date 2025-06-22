@@ -114,7 +114,7 @@ http://localhost:8080/FoodOrderingSystem/
 ## 📷 Screenshots
 
 ### 🏠 Home Page  
-![Home Page Screenshot](https://github.com/Mahaboob-Basha-Shaik/Food-Ordering-System/blob/31354fc9688813e3ba58b7bdcc4369c1e22bcd92/Screenshot%202025-06-22%20102900.png?raw=true)
+![Home Page Screenshot](https://github.com/Mahaboob-Basha-Shaik/Food-Ordering-System/blob/main/Screenshot%202025-06-22%20102900.png?raw=true)
 
 
 ### 🍽️ Restaurant Menu
