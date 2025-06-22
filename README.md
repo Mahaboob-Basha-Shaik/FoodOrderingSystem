@@ -137,19 +137,24 @@ http://localhost:8080/FoodOrderingSystem/
 ![Profile Page](https://github.com/Mahaboob-Basha-Shaik/Food-Ordering-System/blob/main/Screenshot%202025-06-22%20103403.png?raw=true)
 
 
-
-
-
 👨‍💻 Author
+
 Shaik Mahaboob Basha
 
 💼 Aspiring Full Stack Java Developer | Passionate about Web Development and Clean Code
+
 📫 Let's Connect!
+
 💼 [LinkedIn]...(https://www.linkedin.com/in/mahaboob-shaik-991380239)
+
 📧 Email:maheboob2002basha@gmail.com.com
+
 🧑‍💻 [GitHub]...(https://github.com/Mahaboob-Basha-Shaik)
+
 🌐 [Portfolio Website : https://mahaboob-basha-shaik.vercel.app/]
+
 📍 Location: India
 
 ---
-> _“Code is like humor. When you have to explain it, it’s bad.” – Shaik Mahaboob Basha_
+> _“Code is like humor. When you have to explain it, it’s bad.” –Shaik Mahaboob Basha_
+
