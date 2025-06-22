@@ -118,10 +118,6 @@ http://localhost:8080/FoodOrderingSystem/
 
 ![Image Alt](https://github.com/Mahaboob-Basha-Shaik/Food-Ordering-System/blob/b71874266900b38e9a908eb24098d36c30befc2d/Screenshot%202025-06-22%20102900.png)
 
-
-
-
-
 ### 🍽️ Restaurant Menu  
 ![Menu](https://github.com/Mahaboob-Basha-Shaik/Food-Ordering-System/blob/main/Screenshot%202025-06-22%20102934.png?raw=true)
 
