@@ -111,6 +111,7 @@ http://localhost:8080/FoodOrderingSystem/
 
 
 
+
 ## 📷 Screenshots
 
 ### 🏠 Home Page  
@@ -125,21 +126,14 @@ http://localhost:8080/FoodOrderingSystem/
 ### ✅ Order Confirmation  
 ![Order Confirmation](https://github.com/Mahaboob-Basha-Shaik/Food-Ordering-System/blob/main/Screenshot%202025-06-22%20103049.png?raw=true)
 
+### 💳 Checkout Page  
+![Checkout Page](https://github.com/Mahaboob-Basha-Shaik/Food-Ordering-System/blob/main/Screenshot%202025-06-22%20103112.png?raw=true)
 
----
+### ✅ Order Confirmation (Alt View)  
+![Order Confirmation](https://github.com/Mahaboob-Basha-Shaik/Food-Ordering-System/blob/main/Screenshot%202025-06-22%20103333.png?raw=true)
 
-### 💳 Checkout Page
-![Checkout Page](screenshots/checkout.png)
-
----
-
-### ✅ Order Confirmation
-![Order Confirmation](screenshots/order-confirmation.png)
-
----
-
-### 👤 User Profile Page
-![Profile Page](screenshots/profile.png)
+### 👤 User Profile Page  
+![Profile Page](https://github.com/Mahaboob-Basha-Shaik/Food-Ordering-System/blob/main/Screenshot%202025-06-22%20103403.png?raw=true)
 
 
 
