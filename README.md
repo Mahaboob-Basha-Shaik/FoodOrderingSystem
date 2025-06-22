@@ -10,7 +10,7 @@ A simple web-based food ordering application built using **Java (JSP/Servlets)**
 - JSP & Servlets
 - JDBC
 - MySQL
-- HTML, CSS, Bootstrap
+- HTML, CSS
 - Apache Tomcat (v9+)
 
 ---
