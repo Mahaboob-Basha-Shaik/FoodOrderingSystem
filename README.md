@@ -152,5 +152,4 @@ Shaik Mahaboob Basha
 📍 Location: India
 
 ---
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
+> _“Code is like humor. When you have to explain it, it’s bad.” – Shaik Mahaboob Basha_
