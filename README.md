@@ -116,14 +116,15 @@ http://localhost:8080/FoodOrderingSystem/
 ### 🏠 Home Page  
 ![Home Page Screenshot](https://github.com/Mahaboob-Basha-Shaik/Food-Ordering-System/blob/main/Screenshot%202025-06-22%20102900.png?raw=true)
 
+### 🍽️ Restaurant Menu  
+![Menu](https://github.com/Mahaboob-Basha-Shaik/Food-Ordering-System/blob/main/Screenshot%202025-06-22%20102934.png?raw=true)
 
-### 🍽️ Restaurant Menu
-![Restaurant Menu](screenshots/restaurant-menu.png)
+### 🛒 Cart Page  
+![Cart](https://github.com/Mahaboob-Basha-Shaik/Food-Ordering-System/blob/main/Screenshot%202025-06-22%20103028.png?raw=true)
 
----
+### ✅ Order Confirmation  
+![Order Confirmation](https://github.com/Mahaboob-Basha-Shaik/Food-Ordering-System/blob/main/Screenshot%202025-06-22%20103049.png?raw=true)
 
-### 🛒 Cart Page
-![Cart Page](screenshots/cart.png)
 
 ---
 
