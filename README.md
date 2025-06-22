@@ -1,4 +1,4 @@
-# 🍽️ FoodOrderingSystem
+# 🍽️ Food_Ordering_System
 
 A simple web-based food ordering application built using **Java (JSP/Servlets)**, **JDBC**, and **MySQL**, inspired by platforms like Swiggy or Zomato.
 
