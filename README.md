@@ -145,11 +145,11 @@ Shaik Mahaboob Basha
 
 📫 Let's Connect!
 
-💼 [LinkedIn]...(https://www.linkedin.com/in/mahaboob-shaik-991380239)
+💼 [LinkedIn] https://www.linkedin.com/in/mahaboob-shaik-991380239
 
 📧 Email:maheboob2002basha@gmail.com.com
 
-🧑‍💻 [GitHub]...(https://github.com/Mahaboob-Basha-Shaik)
+🧑‍💻 [GitHub] https://github.com/Mahaboob-Basha-Shaik
 
 🌐 [Portfolio Website : https://mahaboob-basha-shaik.vercel.app/]
 
