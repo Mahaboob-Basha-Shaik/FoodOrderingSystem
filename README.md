@@ -7,7 +7,7 @@ A simple web-based food ordering application built using **Java (JSP/Servlets)**
 ## 🔧 Tech Stack
 
 - Java (JDK 8+)
-- JSP & Servlets
+- JSP  and JEE & Servlets
 - JDBC
 - MySQL
 - HTML, CSS
